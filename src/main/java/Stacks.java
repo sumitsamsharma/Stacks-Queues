@@ -24,6 +24,7 @@ class Stack <T extends Comparable>
         }
     }
 
+
 }
 public class Stacks {
     public static void main(String[] args)
